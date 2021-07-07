@@ -14,6 +14,10 @@
     * [Problem1208.java](src/swexpert/Problem1208.java) - Flatten
     * [Problem12004.java](src/swexpert/Problem12004.java) - 구구단
     * [Problem11856.java](src/swexpert/Problem11856.java) - 반반
+    * [Problem10912.java](src/swexpert/Problem10912.java) - 외로운 문자
+    * [Problem10726.java](src/swexpert/Problem10726.java) - 이진수 표현
+    * [Problem8931.java](src/swexpert/Problem8931.java) - 제로
+    * [Problem8658.java](src/swexpert/Problem8658.java) - Summation
 
  * **Baekjoon Algorithm**
     * [Baekjoon2491.java](src/swexpert/Baekjoon2491.java) - 수열(1)
@@ -23,3 +27,8 @@
     * [Baekjoon17478.java](src/swexpert/Baekjoon17478.java) - 재귀함수가 뭔가요?
 
 ### 자습
+ * **정렬**
+ * **탐색**
+    * [BinarySearch.java](src/selfstudy/BinarySearch.java) - 이분 탐색
+ * **자료구조**
+ * **DFS/BFS**
